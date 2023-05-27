@@ -3,11 +3,14 @@
 }
 
 .photo_container__outer {
+    margin-top: 40px;
     border: 1px solid #555 !important;
-    width: 110% !important;
+    width: 100% !important;
     box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25) !important;
     padding: 15px;
     border-radius: 2px;
+    background-color: #fff;
+    color: #000;
 }
 
 .photo_container__name {
