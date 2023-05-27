@@ -1,0 +1,20 @@
+.photo_container__inner {
+    width: 100% !important;
+}
+
+.photo_container__outer {
+    border: 1px solid #555 !important;
+    width: 110% !important;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25) !important;
+    padding: 15px;
+    border-radius: 2px;
+}
+
+.photo_container__name {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+    font-weight: bold;
+    display: block;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
